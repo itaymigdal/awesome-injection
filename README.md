@@ -164,5 +164,5 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Ghost Writing
 - https://github.com/c0de90e7/GhostWriting
-https://blog.sevagas.com/IMG/pdf/code_injection_series_part5.pdf
+- https://blog.sevagas.com/IMG/pdf/code_injection_series_part5.pdf
 
