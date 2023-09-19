@@ -19,6 +19,7 @@
       - [Ruy-Lopez](#ruy-lopez)
   - [Process Injection](#process-injection-1)
       - [Classic Dll Injection](#classic-dll-injection)
+      - [Classic Shellcode Injection](#classic-shellcode-injection)
       - [Dll Injection via SetWindowsHookEx](#dll-injection-via-setwindowshookex)
       - [Reflective Dll Injection](#reflective-dll-injection)
       - [PE Injection](#pe-injection)
@@ -42,6 +43,8 @@
 
 # Introduction
 I've been thinking about putting together a list of process injection techniques and ingenious POCs because I haven't found a decent one. This list focuses on process-spawning injection methods and actual process injection, excluding pre-execution techniques (e.g. AppCert and AppInit Dlls), and self-injection techniques.
+
+**PRs are welcome to help me maintain and extend this list!**
 
 # Linux Injection
 
@@ -97,6 +100,9 @@ I've been thinking about putting together a list of process injection techniques
 #### Classic Dll Injection
 - https://attack.mitre.org/techniques/T1055/001/
 - https://www.ired.team/offensive-security/code-injection-process-injection/dll-injection
+
+#### Classic Shellcode Injection
+- https://www.ired.team/offensive-security/code-injection-process-injection/process-injection
 
 #### Dll Injection via SetWindowsHookEx
 - https://github.com/DrNseven/SetWindowsHookEx-Injector
