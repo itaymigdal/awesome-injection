@@ -40,6 +40,9 @@
       - [Caro-Kann](#caro-kann)
       - [Stack Bombing](#stack-bombing)
       - [Ghost Writing](#ghost-writing)
+      - [Mapping Injection with Instrumentation Callback](#mapping-injection-with-instrumentation-callback)
+      - [SetProcessInjection](#setprocessinjection)
+
 
 # Introduction
 I've been thinking about putting together a list of process injection techniques and ingenious POCs because I haven't found a decent one. This list focuses on process-spawning injection methods and actual process injection, excluding pre-execution techniques (e.g. AppCert and AppInit Dlls), and self-injection techniques.
@@ -172,3 +175,9 @@ I've been thinking about putting together a list of process injection techniques
 - https://github.com/c0de90e7/GhostWriting
 - https://blog.sevagas.com/IMG/pdf/code_injection_series_part5.pdf
 
+#### Mapping Injection with Instrumentation Callback
+- https://github.com/antonioCoco/Mapping-Injection
+
+#### SetProcessInjection
+- https://github.com/OtterHacker/SetProcessInjection
+  
