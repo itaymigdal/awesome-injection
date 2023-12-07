@@ -184,3 +184,4 @@ I've been thinking about putting together a list of process injection techniques
   
 #### Pool Party Injection
 - https://www.safebreach.com/blog/process-injection-using-windows-thread-pools
+- https://github.com/SafeBreach-Labs/PoolParty
