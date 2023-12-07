@@ -42,6 +42,7 @@
       - [Ghost Writing](#ghost-writing)
       - [Mapping Injection with Instrumentation Callback](#mapping-injection-with-instrumentation-callback)
       - [SetProcessInjection](#setprocessinjection)
+      - [Pool Party Injection](#pool-party-injection)
 
 
 # Introduction
@@ -181,3 +182,5 @@ I've been thinking about putting together a list of process injection techniques
 #### SetProcessInjection
 - https://github.com/OtterHacker/SetProcessInjection
   
+#### Pool Party Injection
+- https://www.safebreach.com/blog/process-injection-using-windows-thread-pools
