@@ -152,7 +152,7 @@ I've been thinking about putting together a list of process injection techniques
 - https://github.com/Kudaes/EPI
 
 #### DllNotification Injection
-- https://github.com/ShorSec/DllNotificationInjection
+- https://github.com/Dec0ne/DllNotificationInjection
 
 #### D1rkInject
 - https://github.com/TheD1rkMtr/D1rkInject
