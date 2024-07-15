@@ -40,6 +40,7 @@
       - [Caro-Kann](#caro-kann)
       - [Stack Bombing](#stack-bombing)
       - [Ghost Writing](#ghost-writing)
+      - [Ghost Writing 2](#ghost-writing-2)
       - [Mapping Injection with Instrumentation Callback](#mapping-injection-with-instrumentation-callback)
       - [SetProcessInjection](#setprocessinjection)
       - [Pool Party Injection](#pool-party-injection)
@@ -175,6 +176,9 @@ I've been thinking about putting together a list of process injection techniques
 #### Ghost Writing
 - https://github.com/c0de90e7/GhostWriting
 - https://blog.sevagas.com/IMG/pdf/code_injection_series_part5.pdf
+
+#### Ghost Writing 2
+- https://github.com/fern89/ghostwriting-2
 
 #### Mapping Injection with Instrumentation Callback
 - https://github.com/antonioCoco/Mapping-Injection
