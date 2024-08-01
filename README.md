@@ -44,6 +44,7 @@
       - [Mapping Injection with Instrumentation Callback](#mapping-injection-with-instrumentation-callback)
       - [SetProcessInjection](#setprocessinjection)
       - [Pool Party Injection](#pool-party-injection)
+      - [Thread Name Calling](#thread-name-calling)
 
 
 # Introduction
@@ -189,3 +190,7 @@ I've been thinking about putting together a list of process injection techniques
 #### Pool Party Injection
 - https://www.safebreach.com/blog/process-injection-using-windows-thread-pools
 - https://github.com/SafeBreach-Labs/PoolParty
+
+#### Thread Name Calling
+- https://github.com/hasherezade/thread_namecalling
+- https://research.checkpoint.com/2024/thread-name-calling-using-thread-name-for-offense/
