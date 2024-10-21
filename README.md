@@ -17,6 +17,7 @@
       - [Early Bird](#early-bird)
       - [EntryPoint Patching](#entrypoint-patching)
       - [Ruy-Lopez](#ruy-lopez)
+      - [Early Cascade Injection](#early-cascade-injection)
   - [Process Injection](#process-injection-1)
       - [Classic Dll Injection](#classic-dll-injection)
       - [Classic Shellcode Injection](#classic-shellcode-injection)
@@ -101,6 +102,9 @@ I've been thinking about putting together a list of process injection techniques
 #### Ruy-Lopez
 - https://github.com/S3cur3Th1sSh1t/Ruy-Lopez
 
+#### Early Cascade Injection
+- https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/
+  
 ## Process Injection
 
 #### Classic Dll Injection
