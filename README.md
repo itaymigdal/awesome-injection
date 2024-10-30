@@ -18,6 +18,7 @@
       - [EntryPoint Patching](#entrypoint-patching)
       - [Ruy-Lopez](#ruy-lopez)
       - [Early Cascade Injection](#early-cascade-injection)
+      - [Kernel Callback Table Injection](#kernel-callback-table-injection)
   - [Process Injection](#process-injection-1)
       - [Classic Dll Injection](#classic-dll-injection)
       - [Classic Shellcode Injection](#classic-shellcode-injection)
@@ -46,7 +47,6 @@
       - [SetProcessInjection](#setprocessinjection)
       - [Pool Party Injection](#pool-party-injection)
       - [Thread Name Calling](#thread-name-calling)
-
 
 # Introduction
 I've been thinking about putting together a list of process injection techniques and ingenious POCs because I haven't found a decent one. This list focuses on process-spawning injection methods and actual process injection, excluding pre-execution techniques (e.g. AppCert and AppInit Dlls), and self-injection techniques.
@@ -104,7 +104,10 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Early Cascade Injection
 - https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/
-  
+
+#### Kernel Callback Table Injection
+- https://github.com/0xHossam/KernelCallbackTable-Injection-PoC
+
 ## Process Injection
 
 #### Classic Dll Injection
