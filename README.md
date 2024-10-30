@@ -1,9 +1,5 @@
 *Centralized resource for listing and organizing known injection techniques and POCs*
 
-
-# Introduction
-I've been thinking about putting together a list of process injection techniques and ingenious POCs because I haven't found a decent one. This list focuses on process-spawning injection methods and actual process injection, excluding pre-execution techniques (e.g. AppCert and AppInit Dlls), and self-injection techniques.
-
 - [Introduction](#introduction)
 - [Linux Injection](#linux-injection)
   - [Process Spawning](#process-spawning)
@@ -51,6 +47,9 @@ I've been thinking about putting together a list of process injection techniques
       - [SetProcessInjection](#setprocessinjection)
       - [Pool Party Injection](#pool-party-injection)
       - [Thread Name Calling](#thread-name-calling)
+
+# Introduction
+I've been thinking about putting together a list of process injection techniques and ingenious POCs because I haven't found a decent one. This list focuses on process-spawning injection methods and actual process injection, excluding pre-execution techniques (e.g. AppCert and AppInit Dlls), and self-injection techniques.
 
 **PRs are welcome to help me maintain and extend this list!**
 
