@@ -104,6 +104,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Early Cascade Injection
 - https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/
+- https://github.com/Cracked5pider/earlycascade-injection
 
 #### Kernel Callback Table Injection
 - https://github.com/0xHossam/KernelCallbackTable-Injection-PoC
