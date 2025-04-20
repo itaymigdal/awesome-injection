@@ -47,6 +47,7 @@
       - [SetProcessInjection](#setprocessinjection)
       - [Pool Party Injection](#pool-party-injection)
       - [Thread Name Calling](#thread-name-calling)
+      - [Waiting Thread Hijacking](#waiting-thread-hijacking)
 
 # Introduction
 I've been thinking about putting together a list of process injection techniques and ingenious POCs because I haven't found a decent one. This list focuses on process-spawning injection methods and actual process injection, excluding pre-execution techniques (e.g. AppCert and AppInit Dlls), and self-injection techniques.
@@ -202,3 +203,7 @@ I've been thinking about putting together a list of process injection techniques
 #### Thread Name Calling
 - https://github.com/hasherezade/thread_namecalling
 - https://research.checkpoint.com/2024/thread-name-calling-using-thread-name-for-offense/
+
+#### Waiting Thread Hijacking
+- https://github.com/hasherezade/waiting_thread_hijacking
+- https://research.checkpoint.com/2025/waiting-thread-hijacking/
