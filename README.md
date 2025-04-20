@@ -79,6 +79,7 @@ I've been thinking about putting together a list of process injection techniques
 #### Process Hollowing
 - https://attack.mitre.org/techniques/T1055/012/
 - https://github.com/m0n0ph1/Process-Hollowing
+- https://gist.github.com/xenoscr/99370ecffb07f629ae74e7808cb91450
 
 #### Transacted Hollowing
 - https://github.com/hasherezade/transacted_hollowing
@@ -105,10 +106,16 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Early Cascade Injection
 - https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/
+- https://github.com/0xNinjaCyclone/EarlyCascade
 - https://github.com/Cracked5pider/earlycascade-injection
+- https://gist.github.com/mgeeky/ac3ef69a3c5a32cc32ce596115371173
+- https://github.com/Whitecat18/Rust-for-Malware-Development/tree/main/Early%20Cascade%20Injection
 
 #### Kernel Callback Table Injection
 - https://github.com/0xHossam/KernelCallbackTable-Injection-PoC
+- https://cocomelonc.github.io/tutorial/2022/01/24/malware-injection-15.html
+- https://arorarachit.com/blog/windows-process-injection-via-kernelcallbacktable
+- https://captmeelo.com/redteam/maldev/2022/04/21/kernelcallbacktable-injection.html
 
 ## Process Injection
 
