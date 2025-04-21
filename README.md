@@ -99,6 +99,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### EntryPoint Patching
 - https://www.ired.team/offensive-security/code-injection-process-injection/addressofentrypoint-code-injection-without-virtualallocex-rwx
+- https://bohops.com/2023/06/09/no-alloc-no-problem-leveraging-program-entry-points-for-process-injection/
 
 #### Ruy-Lopez
 - https://github.com/S3cur3Th1sSh1t/Ruy-Lopez
@@ -158,6 +159,7 @@ I've been thinking about putting together a list of process injection techniques
   
 #### ThreadlessInject
 - https://github.com/CCob/ThreadlessInject
+- https://www.ibm.com/think/x-force/using-veh-for-defense-evasion-process-injection
  
 #### EPI
 - https://github.com/Kudaes/EPI
