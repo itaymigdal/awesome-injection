@@ -44,6 +44,7 @@
       - [Ghost Writing](#ghost-writing)
       - [Ghost Writing 2](#ghost-writing-2)
       - [Mapping Injection with Instrumentation Callback](#mapping-injection-with-instrumentation-callback)
+      - [NThread Hijack x64](#nthread-hijack-x64)
       - [SetProcessInjection](#setprocessinjection)
       - [Pool Party Injection](#pool-party-injection)
       - [Thread Name Calling](#thread-name-calling)
@@ -192,6 +193,9 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Mapping Injection with Instrumentation Callback
 - https://github.com/antonioCoco/Mapping-Injection
+
+#### NThread Hijack x64
+- https://github.com/woldann/NThread
 
 #### SetProcessInjection
 - https://github.com/OtterHacker/SetProcessInjection
