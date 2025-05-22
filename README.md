@@ -213,6 +213,6 @@ I've been thinking about putting together a list of process injection techniques
 - https://github.com/hasherezade/waiting_thread_hijacking
 - https://research.checkpoint.com/2025/waiting-thread-hijacking/
 
-### RedirectThread Context Injection
+#### RedirectThread Context Injection
 - https://blog.fndsec.net/2025/05/16/the-context-only-attack-surface/
 - https://github.com/Friends-Security/RedirectThread
