@@ -51,6 +51,7 @@
       - [Thread Name Calling](#thread-name-calling)
       - [Waiting Thread Hijacking](#waiting-thread-hijacking)
       - [RedirectThread Context Injection](#redirectthread-context-injection)
+      - [Overwriting Loaded DLL EntryPoint](#overwriting-loaded-dll-entrypoint)
 
 
 # Introduction
@@ -221,3 +222,6 @@ I've been thinking about putting together a list of process injection techniques
 #### RedirectThread Context Injection
 - https://blog.fndsec.net/2025/05/16/the-context-only-attack-surface/
 - https://github.com/Friends-Security/RedirectThread
+
+#### Overwriting Loaded DLL EntryPoint
+- https://github.com/RWXstoned/LdrShuffle
