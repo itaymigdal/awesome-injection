@@ -4,6 +4,7 @@
 - [Linux Injection](#linux-injection)
   - [Process Spawning](#process-spawning)
       - [LD\_PRELOAD](#ld_preload)
+      - [Seccomp Notifier](#seccomp-notifier)
   - [Process Injection](#process-injection)
       - [PTRACE](#ptrace)
       - [Proc Memory](#proc-memory)
@@ -65,6 +66,10 @@ I've been thinking about putting together a list of process injection techniques
 
 #### LD_PRELOAD
 - https://attack.mitre.org/techniques/T1574/006/
+
+#### Seccomp Notifier
+- https://www.outflank.nl/blog/2025/12/09/seccomp-notify-injection/
+- https://github.com/outflanknl/seccomp-notify-injection
 
 ## Process Injection
 
