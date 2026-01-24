@@ -62,6 +62,9 @@ I've been thinking about putting together a list of process injection techniques
 
 # Linux Injection
 
+#### NullSec Injector
+- https://github.com/bad-antics/nullsec-injector - Cross-platform process injection toolkit written in Rust
+
 ## Process Spawning
 
 #### LD_PRELOAD
