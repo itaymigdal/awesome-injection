@@ -53,6 +53,7 @@
       - [Waiting Thread Hijacking](#waiting-thread-hijacking)
       - [RedirectThread Context Injection](#redirectthread-context-injection)
       - [Overwriting Loaded DLL EntryPoint](#overwriting-loaded-dll-entrypoint)
+      - [Living Of The Process by g3tsyst3m](#living-of-the-process-by-g3tsyst3m)
 
 
 # Introduction
@@ -230,3 +231,7 @@ I've been thinking about putting together a list of process injection techniques
 
 #### Overwriting Loaded DLL EntryPoint
 - https://github.com/RWXstoned/LdrShuffle
+
+#### Living Of The Process by g3tsyst3m
+- https://g3tsyst3m.com/lotp/Living-off-the-Process/
+- https://github.com/g3tsyst3m/CodefromBlog/tree/main/2026-1-29-Living%20off%20the%20Process/LOTP_blog
