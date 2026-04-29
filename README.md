@@ -44,6 +44,7 @@
       - [Caro-Kann](#caro-kann)
       - [Stack Bombing](#stack-bombing)
       - [Ghost Injector](#ghost-injector)
+      - [Cheatron Injector](#cheatron-injector)
       - [Ghost Writing](#ghost-writing)
       - [Ghost Writing 2](#ghost-writing-2)
       - [Mapping Injection with Instrumentation Callback](#mapping-injection-with-instrumentation-callback)
@@ -192,13 +193,17 @@ I've been thinking about putting together a list of process injection techniques
 - https://github.com/Idov31/FunctionStomping
 
 #### Caro-Kann
-- https://github.com/S3cur3Th1sSh1t/Caro-Kann
+- https://github.com/S3cur3Th1sSh1t/Caro-Kannpackages
 
 #### Stack Bombing
 - https://github.com/maziland/StackBombing
 
 #### Ghost Injector
 - https://github.com/woldann/GhostInjector
+
+#### Cheatron Injector
+- https://github.com/Cheatron/Core/tree/main/packages/injector
+- *Uses the same infrastructure (NThread method) as Ghost Injector, completely written in TypeScript.*
 
 #### Ghost Writing
 - https://github.com/c0de90e7/GhostWriting
